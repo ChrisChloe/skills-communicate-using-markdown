@@ -11,3 +11,6 @@
 let name = 'Nanami';
 console.log(`This is ${name}`)
 ```
+- [x] Nanami
+- [ ] Haibara
+- [ ] Gojo
