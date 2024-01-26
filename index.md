@@ -6,3 +6,8 @@
 ###### This is an H6 Header
 
 ![Image of Nanami](https://butwhytho.net/wp-content/uploads/2023/09/Kento-Nanami-But-Why-Tho-1-1.jpg)
+
+``` javascript
+let name = 'Nanami';
+console.log(`This is ${name}`)
+```
